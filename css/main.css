@@ -6,7 +6,7 @@
   --mainBlue: #05668d;
 }
 
-body {
+body  {
   background: var(--mainWhite);
   color: var(--mainDark);
 }
