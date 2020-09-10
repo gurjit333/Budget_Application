@@ -1,5 +1,5 @@
 class UI {
-  constructor() {
+  constructor(){
     this.budgetFeedback = document.querySelector(".budget-feedback");
     this.expenseFeedback = document.querySelector(".expense-feedback");
     this.budgetForm = document.getElementById("budget-form");
