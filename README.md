@@ -1,7 +1,7 @@
 This application is all about the budget plan for users. User can make changes to their budget, expenses and can check the balance just in one look. 
 
 I have used the 'bootstrap.min.css' file just to look better on web page.
-Also used class in js. 
+Also used class in js file. 
 
 
 
